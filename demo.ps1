@@ -3,7 +3,7 @@
 # Wictor Wilén
 # wictor@wictorwilen.se
 # @wictor
-# Scripts available at https://github.com/wictorwilen/thr2147
+# Scripts available at https://askwictor.com/teams-scripts
 #-----------------------------------------------------------------------#
 
 # Install the Microsoft Teams PowerShell
